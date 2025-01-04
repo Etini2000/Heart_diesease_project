@@ -8,7 +8,7 @@ This project explores how biomarkers can help predict heart disease. It includes
 2. Build and evaluate a machine learning model for heart disease diagnosis.
 3. Create an interactive Power BI dashboard to visualize insights from the data.
 
-## Datasset
+## Dataset
 The <a href = "https://github.com/Etini2000/Heart_diesease_project/blob/main/Heart_disease_MLproject.csv">Dataset</a> includes features such as:
 - Demographics: Age, Gender
 - Biomarkers: LDL, HDL, Total Cholesterol, Fasting Glucose, systolic, and Diastolic Blood Pressure
@@ -17,7 +17,7 @@ The <a href = "https://github.com/Etini2000/Heart_diesease_project/blob/main/Hea
 
 ### Data Generation
 The dataset was synthetically generated, using numpy to simulate realistic distributions of biomarker and demographic data for a small local population.
-##The code snipet below
+The code snipet below
 ```
 import numpy as np
 import pandas as pd
