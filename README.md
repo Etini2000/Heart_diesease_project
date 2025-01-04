@@ -9,6 +9,7 @@ This project explores how biomarkers can help predict heart disease. It includes
 3. Create an interactive Power BI dashboard to visualize insights from the data.
 
 ## Dataset
+-<a href = "https://github.com/Etini2000/Heart_diesease_project/blob/main/Heart_disease_MLproject.csv">Dataset</a>
 The dataset includes features such as:
 - Demographics: Age, Gender
 - Biomarkers: LDL, HDL, Total Cholesterol, Fasting Glucose, etc.
